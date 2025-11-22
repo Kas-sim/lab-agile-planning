@@ -1,20 +1,3 @@
----
-name: 'User Story '
-about: 'This template is for creating user stories '
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: The purpose of this issue template is to create stories for the final-lab-project
-title: ''
-labels: ''
-assignees: ''
-
----
 
 **As a ** [role]
 **I need ** [function]
